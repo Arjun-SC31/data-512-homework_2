@@ -1,4 +1,4 @@
-# Homework 1 - Professionalism and Reproducibility
+# Homework 1 - Considering Bias in Data
 
 ## Project Goals:
 
