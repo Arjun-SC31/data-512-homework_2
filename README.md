@@ -142,6 +142,8 @@ Repeat this till you get a satisfactory number of scores for the articles.
 It is suggested to take into account the frequency of your requests. Too many requests
 or a high rate of requests may lead to temporary blocking. I encountered this issue, 
 and did not get ORES scores for about half the article_titles until I altered my approach as above.
+I could not get ORES scores for a few articles. The log file containing the article information 
+for said articles is available, named "Log - ORES Scores Not Received.csv"
 
 
 ## Research Implications:
